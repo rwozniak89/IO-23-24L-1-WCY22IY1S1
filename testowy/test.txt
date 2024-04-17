@@ -1,2 +1,3 @@
 testowy plik 123
 zmiana 2
+zmiana 3 abc
